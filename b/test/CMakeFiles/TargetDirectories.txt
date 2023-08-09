@@ -1,0 +1,3 @@
+/home/simon/桌面/code/b/test/CMakeFiles/rebuild_cache.dir
+/home/simon/桌面/code/b/test/CMakeFiles/edit_cache.dir
+/home/simon/桌面/code/b/test/CMakeFiles/test.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/simon/桌面/code/b/test/build",
+  "command": "g++   -I/home/simon/桌面/code/b/test/../include -I/home/simon/桌面/code/b/test/.   -std=c++11 -pthread -g   -o CMakeFiles/test.dir/test.cpp.o -c /home/simon/桌面/code/b/test/test.cpp",
+  "file": "/home/simon/桌面/code/b/test/test.cpp"
+},
+{
+  "directory": "/home/simon/桌面/code/b/test/build",
+  "command": "g++   -I/home/simon/桌面/code/b/test/../include -I/home/simon/桌面/code/b/test/.   -std=c++11 -pthread -g   -o CMakeFiles/test.dir/home/simon/桌面/code/b/src/dataReader.cpp.o -c /home/simon/桌面/code/b/src/dataReader.cpp",
+  "file": "/home/simon/桌面/code/b/src/dataReader.cpp"
+},
+{
+  "directory": "/home/simon/桌面/code/b/test/build",
+  "command": "g++   -I/home/simon/桌面/code/b/test/../include -I/home/simon/桌面/code/b/test/.   -std=c++11 -pthread -g   -o CMakeFiles/test.dir/home/simon/桌面/code/b/src/antenna.cpp.o -c /home/simon/桌面/code/b/src/antenna.cpp",
+  "file": "/home/simon/桌面/code/b/src/antenna.cpp"
+},
+{
+  "directory": "/home/simon/桌面/code/b/test/build",
+  "command": "g++   -I/home/simon/桌面/code/b/test/../include -I/home/simon/桌面/code/b/test/.   -std=c++11 -pthread -g   -o CMakeFiles/test.dir/home/simon/桌面/code/b/src/dataAllocator.cpp.o -c /home/simon/桌面/code/b/src/dataAllocator.cpp",
+  "file": "/home/simon/桌面/code/b/src/dataAllocator.cpp"
+},
+{
+  "directory": "/home/simon/桌面/code/b/test/build",
+  "command": "g++   -I/home/simon/桌面/code/b/test/../include -I/home/simon/桌面/code/b/test/.   -std=c++11 -pthread -g   -o CMakeFiles/test.dir/home/simon/桌面/code/b/src/tag.cpp.o -c /home/simon/桌面/code/b/src/tag.cpp",
+  "file": "/home/simon/桌面/code/b/src/tag.cpp"
+},
+{
+  "directory": "/home/simon/桌面/code/b/test/build",
+  "command": "g++   -I/home/simon/桌面/code/b/test/../include -I/home/simon/桌面/code/b/test/.   -std=c++11 -pthread -g   -o CMakeFiles/test.dir/home/simon/桌面/code/b/src/tagChecker.cpp.o -c /home/simon/桌面/code/b/src/tagChecker.cpp",
+  "file": "/home/simon/桌面/code/b/src/tagChecker.cpp"
+}
+]

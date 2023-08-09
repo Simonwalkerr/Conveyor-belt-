@@ -1,0 +1,1 @@
+g++   -std=c++11 -pthread -g   CMakeFiles/test.dir/test.cpp.o CMakeFiles/test.dir/home/simon/桌面/code/b/src/dataReader.cpp.o CMakeFiles/test.dir/home/simon/桌面/code/b/src/antenna.cpp.o CMakeFiles/test.dir/home/simon/桌面/code/b/src/dataAllocator.cpp.o CMakeFiles/test.dir/home/simon/桌面/code/b/src/tag.cpp.o CMakeFiles/test.dir/home/simon/桌面/code/b/src/tagChecker.cpp.o  -o test 
